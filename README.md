@@ -1,10 +1,10 @@
 # TypeScript library starter
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Travis](https://img.shields.io/travis/alexjoverm/typescript-library-starter.svg)](https://travis-ci.org/alexjoverm/typescript-library-starter)
-[![Coveralls](https://img.shields.io/coveralls/alexjoverm/typescript-library-starter.svg)](https://coveralls.io/github/alexjoverm/typescript-library-starter)
-[![Dev Dependencies](https://david-dm.org/alexjoverm/typescript-library-starter/dev-status.svg)](https://david-dm.org/alexjoverm/typescript-library-starter?type=dev)
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/AJoverMorales) [![Greenkeeper badge](https://badges.greenkeeper.io/mingchuno/typescript-library-starter.svg)](https://greenkeeper.io/)
+[![Travis](https://img.shields.io/travis/mingchuno/typescript-library-starter.svg)](https://travis-ci.org/mingchuno/typescript-library-starter)
+[![Coveralls](https://img.shields.io/coveralls/mingchuno/typescript-library-starter.svg)](https://coveralls.io/github/mingchuno/typescript-library-starter)
+[![Dev Dependencies](https://david-dm.org/mingchuno/typescript-library-starter/dev-status.svg)](https://david-dm.org/mingchuno/typescript-library-starter?type=dev)
+[![Greenkeeper badge](https://badges.greenkeeper.io/mingchuno/typescript-library-starter.svg)](https://greenkeeper.io/)
 
 A starter project that makes creating a TypeScript library extremely easy.
 
@@ -13,7 +13,7 @@ A starter project that makes creating a TypeScript library extremely easy.
 ### Usage
 
 ```bash
-git clone https://github.com/alexjoverm/typescript-library-starter.git YOURFOLDERNAME
+git clone https://github.com/mingchuno/typescript-library-starter.git YOURFOLDERNAME
 cd YOURFOLDERNAME
 
 # Run npm install and write your library name when asked. That's all!
